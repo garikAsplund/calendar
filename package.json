@@ -35,6 +35,8 @@
   "type": "module",
   "dependencies": {
     "@supabase/supabase-js": "^2.38.4",
+    "air-datepicker": "^3.4.0",
+    "date-fns": "^2.30.0",
     "stripe": "^14.3.0"
   }
 }
